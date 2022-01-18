@@ -1,0 +1,37 @@
+{
+  "todos": [
+    {
+      "todo": "fare sport",
+      "completed": false,
+      "list": 1,
+      "id": 1
+    },
+    {
+      "todo": "studiare",
+      "completed": true,
+      "list": 2,
+      "id": 3
+    },
+    {
+      "todo": "fare da mangiare",
+      "completed": true,
+      "list": 0,
+      "id": 4
+    }
+  ],
+  "activeFilter": {
+    "filter": "ALL"
+  },
+  "lists": [
+    {
+      "name": "casa",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "name": "biblioteca",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
